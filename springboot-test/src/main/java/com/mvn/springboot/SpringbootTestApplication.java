@@ -15,7 +15,7 @@ public class SpringbootTestApplication {
 
     @RequestMapping("/")
     public String index(){
-        return "欢迎来到SpringBoot";
+        return "欢迎来到SpringBoot,哈哈哈哈哈哈";
     }
 
 }
